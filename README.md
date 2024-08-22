@@ -34,21 +34,6 @@ The Python Sales Analysis project is designed to analyze sales data and generate
   - NumPy
   - Scikit-learn
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/Python_Sales_Analysis.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Python_Sales_Analysis
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Place your sales data file in the `/data` directory.
